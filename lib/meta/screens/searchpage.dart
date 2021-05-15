@@ -166,7 +166,7 @@ class _SearchPageState extends State<SearchPage> {
                                 ),
                               ],
                             ),
-                            padding: EdgeInsets.fromLTRB(10, 0, 0, 0),
+                            padding: EdgeInsets.fromLTRB(15, 0, 0, 0),
                             style: TextStyle(
                               fontSize: 16,
                               fontWeight: FontWeight.w300,
