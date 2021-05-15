@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49856122405",
+    "project_id": "ombre-internship",
+    "storage_bucket": "ombre-internship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49856122405:android:4404ddc21331251062f9cc",
+        "android_client_info": {
+          "package_name": "com.example.ombre_internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49856122405-btobht8oa3uhmsu6932iqi4jdaogeud6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuHPCrOe7cVUZoGugufLwKjtE9JQ3tb9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49856122405-btobht8oa3uhmsu6932iqi4jdaogeud6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
