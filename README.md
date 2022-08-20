@@ -1,6 +1,6 @@
-# ombre_internship
+# Simple search application 
 
-A new Flutter project.
+This is an application focusing on a very simple search with autoresults and recommendations pop up.
 
 ## Getting Started
 
